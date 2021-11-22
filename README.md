@@ -1,0 +1,1 @@
+# reverse-pattern-series
